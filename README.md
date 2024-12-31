@@ -36,7 +36,14 @@ The project leverages a rich dataset encompassing:
 * **`reports/`:** Presents findings in a clear and concise manner, including visualizations and summaries.
 
 ### Getting Started
-
-1. **Install Dependencies:**
+ **Install Dependencies:**
    ```bash
    pip install pandas plotly prophet
+## Launch Jupyter Notebook
+
+This command launches the Jupyter Notebook for the specified file:
+
+```bash
+jupyter notebook notebooks/covid19_analysis.ipynb
+
+   
