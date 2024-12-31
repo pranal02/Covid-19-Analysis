@@ -1,4 +1,4 @@
-# Covid-19-Analysis
+# Covid-19-Analysis.
 # COVID-19 Data Analysis and Visualization Project
 
 ## Project Overview
